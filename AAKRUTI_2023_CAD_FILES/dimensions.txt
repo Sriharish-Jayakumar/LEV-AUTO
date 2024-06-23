@@ -1,0 +1,22 @@
+------------------------------
+power collecting coils
+
+l=150,b=90,h=8
+------------------------------
+liquid hel& liq nitrogen condestion and cooling system
+
+l=160,b=120,h=65
+------------------------------
+power management and distribution
+
+l=90,b=120,h=53
+------------------------------
+sc mag coils *2 
+
+l=212,b=24,h=65
+------------------------------
+control in front
+h=80
+-----------------------------
+goods carrier
+l=330,b=215,h=148
